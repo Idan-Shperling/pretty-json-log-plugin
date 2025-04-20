@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>io.github.orangain.prettyjsonlog</id>
-    <name>Pretty JSON Log</name>
-    <vendor>orangain</vendor>
+    <id>io.github.idanshperling.prettyjsonlog</id>
+    <n>Pretty JSON Log Extend</n>
+    <vendor>Idan Shperling</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
